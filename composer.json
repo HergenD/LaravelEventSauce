@@ -9,6 +9,10 @@
     },
     "authors": [
         {
+            "name": "Hergen Dillema",
+            "homepage": "https://hergen.nl"
+        },
+        {
             "name": "Dries Vints",
             "homepage": "https://driesvints.com"
         },
@@ -19,9 +23,9 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^8.0",
         "ext-json": "*",
-        "eventsauce/eventsauce": "^0.8.2",
+        "eventsauce/eventsauce": "^1",
         "illuminate/bus": "^8.0",
         "illuminate/container": "^8.0",
         "illuminate/queue": "^8.0",
